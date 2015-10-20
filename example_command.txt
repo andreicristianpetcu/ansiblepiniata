@@ -1,0 +1,1 @@
+ansible docker -a "/usr/bin/apt-get install tmux -y" -u root -f 4 -vvvv
